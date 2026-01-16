@@ -1,0 +1,10 @@
+langchain==0.3.27
+langgraph==0.6.7
+langchain-openai==0.3.32
+langchain-google-genai==2.1.12
+openai==1.107.0
+numpy==2.2.6
+pandas==2.3.2
+scikit-learn==1.7.2
+pyarrow==21.0.0
+fastparquet==2024.11.0
